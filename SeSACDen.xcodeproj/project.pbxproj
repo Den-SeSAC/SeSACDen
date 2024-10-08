@@ -51,7 +51,7 @@
 		B7F2BB552CB4F6A000E93735 /* SeSACDen */ = {
 			isa = PBXGroup;
 			children = (
-				B7F2BB642CB4F89300E93735 /* Den */,
+				B7F2BB652CB4FA1800E93735 /* Bran */,
 				B7F2BB5C2CB4F6A000E93735 /* Preview Content */,
 			);
 			path = SeSACDen;
@@ -65,14 +65,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		B7F2BB642CB4F89300E93735 /* Den */ = {
+		B7F2BB652CB4FA1800E93735 /* Bran */ = {
 			isa = PBXGroup;
 			children = (
 				B7F2BB562CB4F6A000E93735 /* SeSACDenApp.swift */,
 				B7F2BB582CB4F6A000E93735 /* ContentView.swift */,
 				B7F2BB5A2CB4F6A000E93735 /* Assets.xcassets */,
 			);
-			path = Den;
+			path = Bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
